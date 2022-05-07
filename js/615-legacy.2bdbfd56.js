@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshell"]=self["webpackChunkshell"]||[]).push([[615],{615:function(e,t,n){n.r(t);var s=n(6196),u=n.n(s),l=n(205),a=n.n(l);u().use(a()),t["default"]=new(a().Store)({state:{event:null},getters:{},mutations:{setEvent:function(e,t){e.event=t}},actions:{},modules:{}})}}]);
+//# sourceMappingURL=615-legacy.2bdbfd56.js.map
