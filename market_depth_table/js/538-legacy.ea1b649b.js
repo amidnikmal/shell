@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_01_market_depth_table"]=self["webpackChunk_01_market_depth_table"]||[]).push([[538],{3554:function(e,l,t){t.r(l);var u=t(4829),a=t(3884),_=(t(6678),t(1001)),n=(0,_.Z)(a.Z,u.s,u.x,!1,null,null,null);l["default"]=n.exports}}]);
+//# sourceMappingURL=538-legacy.ea1b649b.js.map
